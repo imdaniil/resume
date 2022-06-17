@@ -27,6 +27,12 @@
           "color": "#0086c8",
           "address": "@any",
           "linkAddress": "https://t.me/any"
+        },
+        {
+          "icon": "https://i.ibb.co/7RF38TJ/github.png",
+          "color": "#000",
+          "address": "mrtwon",
+          "linkAddress": "https://github.com/imdaniil"
         }
        ]
   },
@@ -60,7 +66,7 @@
           "linkAddress": "https://t.me/mrtwon" 
         },
         {
-          "icon": "https://ibb.co/s6rTkDv",
+          "icon": "https://i.ibb.co/7RF38TJ/github.png",
           "color": "#000",
           "address": "mrtwon",
           "linkAddress": "https://github.com/imdaniil"
