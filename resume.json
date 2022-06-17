@@ -58,6 +58,12 @@
           "color": "#0086c8",
           "address": "@any",
           "linkAddress": "https://t.me/mrtwon" 
+        },
+        {
+          "icon": "https://ibb.co/s6rTkDv",
+          "color": "#000",
+          "address": "mrtwon",
+          "linkAddress": "https://github.com/imdaniil"
         }
        ]
   }
