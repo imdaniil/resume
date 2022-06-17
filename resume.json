@@ -1,0 +1,64 @@
+{
+  "ru": {
+      "name": "Дмитрий",
+      "age": "973717200000",
+      "city": "Москва",
+      "avatar": "https://i.ibb.co/hd7Hmc8/photo.jpg",
+      "stack": ["HTML", "CSS", "JS", "Vue.js", "Angular", "React.js"],
+      "experience": [
+            {
+              "project": "RoomX",
+              "description": "Сервис по ремонту квартир, написан front-end на Angular and Vue.js, а backend на Node.js"
+            },
+            {
+              "project": "KostructorX",
+              "description": "Сервис по доставке запчастей и инструментов для авто-технкие, написан на Angular, Vue.js, Node.js MongoDB"
+            }
+      ],
+      "contacts": [
+        {
+          "icon": "https://i.ibb.co/ZXXRhDR/email.png",
+          "color": "#3a6da1",
+          "address": "any@gmail.com",
+          "linkAddress": ""
+        },
+        {
+          "icon": "https://i.ibb.co/VQMzkqh/telegram.png",
+          "color": "#0086c8",
+          "address": "@any",
+          "linkAddress": "https://t.me/any"
+        }
+       ]
+  },
+  "en": {
+      "name": "Dmitry",
+      "age": "973717200000",
+      "city": "Moscov",
+      "avatar": "https://i.ibb.co/hd7Hmc8/photo.jpg",
+      "stack": ["HTML", "CSS", "JS", "Vue.js", "Angular", "React.js"],
+      "experience": [
+            {
+              "project": "RoomX",
+              "description": "Apartment renovation service, front-end written in Angular and Vue.js, back-end in Node.js"
+            },
+            {
+              "project": "KostructorX",
+              "description": "Service for the delivery of spare parts and tools for auto-technical, written in Angular, Vue.js, Node.js MongoDB"
+            }
+      ],
+      "contacts": [
+        {
+          "icon": "https://i.ibb.co/ZXXRhDR/email.png",
+          "color": "#3a6da1",
+          "address": "any@gmail.com",
+          "linkAddress": ""
+        },
+        {
+          "icon": "https://i.ibb.co/VQMzkqh/telegram.png",
+          "color": "#0086c8",
+          "address": "@any",
+          "linkAddress": "https://t.me/mrtwon" 
+        }
+       ]
+  }
+}
