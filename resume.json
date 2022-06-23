@@ -1,38 +1,32 @@
 {
   "ru": {
-      "name": "Дмитрий",
+      "name": "Линус.Т",
       "age": "973717200000",
-      "city": "Москва",
+      "city": "Портленд",
       "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinuxCon_Europe_Linus_Torvalds_03_%28cropped%29.jpg/548px-LinuxCon_Europe_Linus_Torvalds_03_%28cropped%29.jpg",
-      "stack": ["HTML", "CSS", "JS", "Vue.js", "Angular", "React.js"],
+      "stack": ["C++", "C#", "Asm", "Linux OS"],
       "experience": [
             {
-              "project": "RoomX",
-              "description": "Сервис по ремонту квартир, написан front-end на Angular and Vue.js, а backend на Node.js"
+              "project": "Linux",
+              "description": "Поддерживаю свой open-source prioject, это семейство Unix-подобных операционных систем на базе ядра Linux, включающих тот или иной набор утилит и программ проекта GNU, и, возможно, другие компоненты"
             },
             {
-              "project": "KostructorX",
-              "description": "Сервис по доставке запчастей и инструментов для авто-технкие, написан на Angular, Vue.js, Node.js MongoDB"
+              "project": "Git",
+              "description": "Система управления версиями, написал по фасту за выходные, как нех#й делать"
             }
       ],
       "contacts": [
         {
-          "icon": "https://i.ibb.co/ZXXRhDR/email.png",
-          "color": "#3a6da1",
-          "address": "any@gmail.com",
-          "linkAddress": ""
-        },
-        {
           "icon": "https://i.ibb.co/VQMzkqh/telegram.png",
           "color": "#0086c8",
-          "address": "@any",
-          "linkAddress": "https://t.me/any"
+          "address": "@linux",
+          "linkAddress": "https://t.me/linux"
         },
         {
           "icon": "https://rroylance.github.io/assets/img/logo.png",
           "color": "#000",
-          "address": "mrtwon",
-          "linkAddress": "https://github.com/mrtwon/"
+          "address": "linux",
+          "linkAddress": "https://github.com/linux/"
         }
        ]
   },
