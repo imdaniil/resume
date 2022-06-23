@@ -30,40 +30,34 @@
         }
        ]
   },
-  "en": {
-      "name": "Dmitry",
-      "age": "973717200000",
-      "city": "Moscov",
+  "en":{
+      "name": "Linus.T",
+      "age": "-298778",
+      "city": "Portland",
       "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinuxCon_Europe_Linus_Torvalds_03_%28cropped%29.jpg/548px-LinuxCon_Europe_Linus_Torvalds_03_%28cropped%29.jpg",
-      "stack": ["HTML", "CSS", "JS", "Vue.js", "Angular", "React.js"],
+      "stack": ["C++", "C#", "Asm", "Linux OS"],
       "experience": [
             {
-              "project": "RoomX",
-              "description": "Apartment renovation service, front-end written in Angular and Vue.js, back-end in Node.js"
+              "project": "Linux",
+              "description": "I maintain my open-source prioject, this is a family of Unix-like operating systems based on the Linux kernel, including one or another set of utilities and programs from the GNU project, and possibly other components"
             },
             {
-              "project": "KostructorX",
-              "description": "Service for the delivery of spare parts and tools for auto-technical, written in Angular, Vue.js, Node.js MongoDB"
+              "project": "Git",
+              "description": "Version control system, wrote fast over the weekend, what the heck do"
             }
       ],
       "contacts": [
         {
-          "icon": "https://i.ibb.co/ZXXRhDR/email.png",
-          "color": "#3a6da1",
-          "address": "any@gmail.com",
-          "linkAddress": ""
-        },
-        {
           "icon": "https://i.ibb.co/VQMzkqh/telegram.png",
           "color": "#0086c8",
-          "address": "@any",
-          "linkAddress": "https://t.me/mrtwon" 
+          "address": "@linux",
+          "linkAddress": "https://t.me/linux"
         },
         {
           "icon": "https://rroylance.github.io/assets/img/logo.png",
           "color": "#000",
-          "address": "mrtwon",
-          "linkAddress": "https://github.com/mrtwon/"
+          "address": "linux",
+          "linkAddress": "https://github.com/linux/"
         }
        ]
   }
